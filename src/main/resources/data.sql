@@ -1,0 +1,1 @@
+INSERT INTO STATE (name,state) VALUES('isAlive','200');
